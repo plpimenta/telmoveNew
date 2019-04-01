@@ -1,0 +1,115 @@
+.menu{
+    cursor: pointer;
+
+}
+#menu-font{
+    font-size: 12px;
+}
+
+.menu:hover{
+    color: #F7BE81;
+}
+.usuario-boasvindas{
+    margin-left: 15%;
+}
+.menu-segundo-nivel{
+    margin-left: 10%;
+}
+.formatar-menus-links{
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 2px;
+    font-size: 12px;
+
+}
+.formatar-menus-links:hover{
+    color: #151515;
+}
+.painel-titulo{
+    text-align: center;
+}
+.pesquisa-subtitulo{
+    text-align: center;
+}
+.pesquisa-corpo{
+    text-align: center;
+    font-size: 18px;
+}
+#login-painel{
+    padding-top: 2%;
+}
+th.tabela-formata-titulo{
+    text-align: center;
+}
+.tabela-formata-titulo{
+    text-align: center;
+    cursor: pointer;
+}
+.tabela-formata-linha-alinhamento{
+    text-align: center;
+}
+.tabela-formata-linha-fonte{
+    font-size: 10px;
+}    
+.fa-eye{
+    cursor: pointer;
+}
+h4{
+    text-align: center;
+}
+.fa-times{
+    color: #FE2E2E;
+    font-weight: bold;
+    cursor: pointer;
+}
+.fa-pencil{
+ cursor: pointer;   
+}
+.fa-pencil:hover{
+    color: #FA8258;
+}
+    
+.fa-close{
+    cursor: pointer;
+}
+.fa-close:hover{
+    color: #FA5858;
+}
+
+#index-card-informacoes-container{
+    float: left;
+    width: 21%;
+    margin-left: 3%;
+    
+}
+#index-card-informacoes-dado{
+    text-align: center;
+    font-weight: bold;
+    font-size: 8px;
+}
+#index-card-informacoes-subtitulo{
+    text-align: right;
+    font-weight: bold;
+    color: #045FB4;
+    font-size: 8px;
+    /*text-shadow: 0px 2px 5px #333;*/
+}
+#index-card-informacoes-titulo{
+    color: #DF7401;
+    font-size: 8px;
+}  
+#icone-pesquisa{
+    float: right;
+    color: gray;
+    cursor: pointer;
+}
+#formata-link-sair{
+    margin-left: 35%;
+    color: gray;
+}
+#formata-link-sair:hover{
+    color: #000;;
+}
+#ola-usuario{
+    cursor: pointer;
+}
